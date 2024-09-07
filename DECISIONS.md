@@ -42,4 +42,5 @@
             -	This model can be verified by running “select * from table_name” in the snowflake worksheet.
 
 -	Repeated the above step for the remaining 4 problems.
+    - Added a folder "queries" with 4 separate .sql files that contains the solutions to each of the problem statements.  
 
