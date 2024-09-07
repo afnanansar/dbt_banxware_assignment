@@ -1,0 +1,1 @@
+{"_invocation_id": "0a2085fd-15a0-4b00-b210-7e95eb42bdca", "linked": {"0": {"name": "model.home_assignment.transformed_sales_data", "type": "model"}, "1": {"name": "seed.home_assignment.customers", "type": "seed"}, "2": {"name": "seed.home_assignment.sales", "type": "seed"}}}
