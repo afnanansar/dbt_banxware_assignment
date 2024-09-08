@@ -26,6 +26,7 @@
     -	Customers.csv as raw_customer_data
 
 -	Opened a worksheet to perform the requested data transformation:
+    -	Performed modification on the order_date column to fit the format into MM/DD/YYYY (date) from varchar. 
     -	Used the keyword “extract” to get the year, month and day.
         -	Extract(year from order_date)   [did the same for month and day]
 
